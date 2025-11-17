@@ -37,7 +37,7 @@ def ulsanCrawling():
             endDate=endDate,
             festivalType="FESTAPICK",
             state="PROCESSING",
-            homePage=None,
+            homePage="no_hompage",
             posterInfo=poster,
             title=title,
             overView=overView,
